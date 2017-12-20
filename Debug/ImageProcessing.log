@@ -1,0 +1,60 @@
+﻿  ImageStitch_jy.cpp
+d:\program files\visualstudio12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+          d:\program files\visualstudio12.0\vc\atlmfc\include\afx.h(33) : 'MBCS_Support_Deprecated_In_MFC' 선언을 참조하십시오.
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+d:\source\program\image stitch\imagestitch_jy.cpp(24): warning C4305: '초기화 중' : 'double'에서 'float'(으)로 잘립니다.
+d:\source\program\image stitch\imagestitch_jy.cpp(339): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\source\program\image stitch\imagestitch_jy.cpp(340): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\source\program\image stitch\imagestitch_jy.cpp(341): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\source\program\image stitch\imagestitch_jy.cpp(363): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\image stitch\imagestitch_jy.cpp(487): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\program\image stitch\imagestitch_jy.cpp(562): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\source\program\image stitch\imagestitch_jy.cpp(563): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\source\program\image stitch\imagestitch_jy.cpp(564): warning C4800: 'int' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+JpegLibD.lib(jcapimin.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcapimin.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcapistd.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcapistd.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jccoefct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jccoefct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jccolor.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jccolor.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcdctmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcdctmgr.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jchuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jchuff.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcinit.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcinit.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmainct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmainct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmarker.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmarker.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcmaster.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcmaster.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcomapi.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcomapi.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcparam.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcparam.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcphuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcphuff.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcprepct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcprepct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jcsample.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jcsample.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdapimin.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdapimin.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdapistd.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdapistd.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdatadst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdatadst.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdatasrc.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdatasrc.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdcoefct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdcoefct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdcolor.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdcolor.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jddctmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jddctmgr.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdhuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdhuff.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdinput.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdinput.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmainct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmainct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmarker.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmarker.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmaster.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmaster.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdmerge.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdmerge.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdphuff.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdphuff.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdpostct.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdpostct.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jdsample.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jdsample.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jerror.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jerror.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctflt.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctflt.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctfst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctfst.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jfdctint.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jfdctint.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctflt.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctflt.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctfst.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctfst.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctint.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctint.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jidctred.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jidctred.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jmemmgr.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jmemmgr.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jmemnobs.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jmemnobs.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(JpegProcess.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(JpegProcess.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jquant1.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jquant1.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jquant2.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jquant2.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(jutils.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(jutils.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+JpegLibD.lib(Main.obj) : warning LNK4099: 'vc60.pdb' PDB를 'JpegLibD.lib(Main.obj)' 또는 'D:\Source\Program\Image Stitch\Debug\vc60.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  ImageProcessing.vcxproj -> D:\Source\Program\Image Stitch\.\Debug\ImageProcessing.exe
